@@ -2,6 +2,8 @@
 
 
 	/**
+	 *main- Entry point
+	 *description-Program that prints alphabet in lowercase 
 	 * print_alphabet - print all alphabet in lowercase
 	 */
 
